@@ -1,4 +1,4 @@
-import '../Components/input.css'
+import '../Components/Input.css'
 const Input = ({temp , value , onChange}) => {
     
   return (
